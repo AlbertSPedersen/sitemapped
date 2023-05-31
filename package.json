@@ -1,0 +1,11 @@
+{
+	"name": "sitemapped",
+	"version": "0.0.1",
+	"description": "A simple sitemap parser for Web Workers",
+	"devDependencies": {
+		"typescript": "^5.0.4"
+	},
+	"dependencies": {
+		"linkedom": "^0.14.26"
+	}
+}
